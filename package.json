@@ -1,0 +1,30 @@
+{
+  "name": "nexter",
+  "version": "1.0.0",
+  "description": "nexter flexbox project",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "node-sass sass/main.scss css/style.comp.css",
+    "dev:sass": "node-sass sass/main.scss css/style.css",
+    "watch:sass": "nodemon -e scss -x \"npm run dev:sass\"",
+    "concat:css": "concat -o css/style.concat.css css/icon-font.css css/style.comp.css",
+    "prefix:css": "postcss --use autoprefixer -b 'last 10 versions' css/style.concat.css -o css/style.prefix.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brianmuturi2/nexter.git"
+  },
+  "author": "Brian muturi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brianmuturi2/nexter/issues"
+  },
+  "homepage": "https://github.com/brianmuturi2/nexter#readme",
+  "devDependencies": {
+    "autoprefixer": "^9.6.1",
+    "concat": "^1.0.3",
+    "node-sass": "^4.12.0",
+    "nodemon": "^1.19.1",
+    "postcss-cli": "^6.1.3"
+  }
+}
