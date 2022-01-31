@@ -1,5 +1,4 @@
 # Dont track these folders
 
 /node_modules
-/img
 .vscode
