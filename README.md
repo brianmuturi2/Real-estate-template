@@ -26,10 +26,10 @@
     <img src="img/favicon.png" alt="Logo" width="80" height="80">
   </a>
 
-<h3 align="center">Hotel booking website template</h3>
+<h3 align="center">Realestate website template</h3>
 
   <p align="center">
-    A landing page template for booking a hotel.
+    A landing page template for website offering realestates.
     <br />
     <!--
     <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
@@ -76,7 +76,7 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-A landing page for booking hotel
+A landing page for realestate website
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -129,7 +129,7 @@ The following are the features implemented in the application.
 * Sass variables & imports
 * Media queries
 * Scss
-* Flexbox layout
+* CSS Grid layout
 * Sprite svg image
 
 <p align="right">(<a href="#top">back to top</a>)</p>
