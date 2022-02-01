@@ -22,7 +22,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/brianmuturi2/Hotel-booking-website-template">
+  <a href="https://github.com/brianmuturi2/Real-estate-template">
     <img src="img/favicon.png" alt="Logo" width="80" height="80">
   </a>
 
@@ -107,7 +107,7 @@ This is an example of how to list things you need to use the software and how to
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/brianmuturi2/Hotel-booking-website-template.git
+   git clone https://github.com/brianmuturi2/Real-estate-template.git
    ```
 2. Install NPM packages
    ```sh
