@@ -26,10 +26,10 @@
     <img src="img/favicon.png" alt="Logo" width="80" height="80">
   </a>
 
-<h3 align="center">Realestate website template</h3>
+<h3 align="center">Real estate website template</h3>
 
   <p align="center">
-    A landing page template for website offering realestates.
+    A landing page template for website offering real estates.
     <br />
     <!--
     <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
